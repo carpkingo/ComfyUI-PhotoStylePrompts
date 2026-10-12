@@ -12,7 +12,7 @@
 ## 安装位置
 本节点已安装到：
 ```
-E:\ComfyUI-aki-v1.6\ComfyUI\custom_nodes\ComfyUI-PhotoStylePrompts
+https://github.com/carpkingo/ComfyUI-PhotoStylePrompts
 ```
 
 ## 节点说明
